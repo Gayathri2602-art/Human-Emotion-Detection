@@ -5,29 +5,29 @@ A real-time facial emotion recognition system using Deep Learning and Computer V
 
 🎯 Features
 
-🎥 Real-time emotion detection via webcam
+    🎥 Real-time emotion detection via webcam
 
-🖼️ Static image prediction support
+     🖼️ Static image prediction support
 
-😤 Detects 7 emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise
+     😤 Detects 7 emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise
 
-⚡ Fast and lightweight using a pre-trained .h5 model
-
-📊 Visualize predictions using Matplotlib
+     ⚡ Fast and lightweight using a pre-trained .h5 model
+ 
+     📊 Visualize predictions using Matplotlib
 
 
 🛠️ Tech Stack
 
-Python
-TensorFlow / Keras — Deep learning model
+       Python
+       TensorFlow / Keras — Deep learning model
 
-OpenCV — Face detection & webcam feed
+      OpenCV — Face detection & webcam feed
 
-NumPy — Image preprocessing
+     NumPy — Image preprocessing
 
-Matplotlib — Image visualization
+      Matplotlib — Image visualization
 
-Haar Cascade Classifier — Face detection
+     Haar Cascade Classifier — Face detection
 
 🧠 How It Works
 
