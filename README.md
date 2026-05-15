@@ -18,28 +18,20 @@ A real-time facial emotion recognition system using Deep Learning and Computer V
 
 🛠️ Tech Stack
 
-       Python
-       TensorFlow / Keras — Deep learning model
-
-      OpenCV — Face detection & webcam feed
-
-     NumPy — Image preprocessing
-
-      Matplotlib — Image visualization
-
-     Haar Cascade Classifier — Face detection
+    Python
+    TensorFlow / Keras — Deep learning model
+    OpenCV — Face detection & webcam feed
+    NumPy — Image preprocessing
+    Matplotlib — Image visualization
+    Haar Cascade Classifier — Face detection
 
 🧠 How It Works
 
-Webcam captures live video frames
-
-Haar Cascade detects faces in each frame
-
-Detected face is cropped and resized to 48×48 grayscale
-
-Pre-trained CNN model predicts the emotion
-
-Emotion label is displayed on the video feed in real-time
+    Webcam captures live video frames
+    Haar Cascade detects faces in each frame
+    Detected face is cropped and resized to 48×48 grayscale
+    Pre-trained CNN model predicts the emotion
+    Emotion label is displayed on the video feed in real-time
 
 Dataset- https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
